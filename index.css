@@ -17,6 +17,14 @@ header {
     justify-content: space-between;
     align-items: center;
     border-bottom: 1px solid #C6C6C6;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background: #fff;
+}
+
+.post-1 {
+    margin-top: 65px;
 }
 
 .logo{
